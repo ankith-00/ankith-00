@@ -32,13 +32,13 @@ FastAPI  |  Backend Developer  |  AI-Agents
 </p>
 
 
-``text
+
 I'm **Ankith**, a Software Developer passionate about building scalable backend systems, full-stack applications, and AI-powered agents. I enjoy exploring new technologies, solving real-world problems, and turning ideas into working products.
-``
 
 
-### Technologies I build with:
+
 <p align="left">
+ ### Technologies I build with:
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
