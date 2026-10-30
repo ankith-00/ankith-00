@@ -37,8 +37,8 @@ I'm **Ankith**, a Software Developer passionate about building scalable backend 
 
 
 
-<p align="left">
  ### Technologies I build with:
+<p align="left">
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
