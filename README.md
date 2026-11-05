@@ -6,7 +6,7 @@
 ██╔══██║██║╚██╗██║██╔═██╗ ██║   ██║   ██╔══██║
 ██║  ██║██║ ╚████║██║  ██╗██║   ██║   ██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝   ╚═╝   ╚═╝  ╚═╝
-FastAPI  |  Backend Developer  |  AI-Agents 
+FastAPI  |  Backend Developer  |  AI-Agent Builder
 </pre>
 
 
